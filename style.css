@@ -17,7 +17,12 @@ body {
     text-align: center;
     box-shadow: 0 5px 25px rgba(0,0,0,0.2);
 }
+#idioma{
+ background:none;
+    border:none;
+    color: limo;
 
+}
 h1 {
     margin-bottom: 20px;
 }
