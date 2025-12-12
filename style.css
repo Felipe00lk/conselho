@@ -19,8 +19,8 @@ body {
 }
 #idioma{
  background:none;
-    border:none;
-    color: limo;
+    border: solid 1px lightblue;
+    color: lime;
 
 }
 h1 {
